@@ -2,6 +2,8 @@
 
 [screenshot]: https://github.com/rossdowthwaite/donuts/blob/master/donuts.png?raw=true "Falling donuts! AGGHHH"
 
+[[https://github.com/rossdowthwaite/donuts/blob/master/donuts.png?raw=true]]
+
 ## Introduction
 
 Donuts, everywhere!
