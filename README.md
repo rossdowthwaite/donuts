@@ -1,5 +1,7 @@
 # Donuts!
 
+[screenshot]: https://github.com/rossdowthwaite/donuts/blob/master/donuts.png "Falling donuts! AGGHH"
+
 ## Introduction
 
 Donuts, everywhere!
