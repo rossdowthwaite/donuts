@@ -19,7 +19,7 @@ npm install
 * canvas
 
 ## Contributors
-### Devlopment
+### Development
 
 * Ross Dowthwaite
 
