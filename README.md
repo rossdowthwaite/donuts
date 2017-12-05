@@ -1,6 +1,6 @@
 # Donuts!
 
-[screenshot]: https://github.com/rossdowthwaite/donuts/blob/master/donuts.png?raw=true "Falling donuts! AGGHH"
+[screenshot]: https://github.com/rossdowthwaite/donuts/blob/master/donuts.png?raw=true "Falling donuts! AGGHHH"
 
 ## Introduction
 
